@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/ParaboleSelectionsPy3.iml
+
