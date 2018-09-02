@@ -1,0 +1,5 @@
+Coffee is a beverage.
+Tea is a beverage.
+Glass holds tea.
+Cup holds coffee.
+Eric drinks beverages.

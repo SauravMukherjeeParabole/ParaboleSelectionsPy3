@@ -1,0 +1,9 @@
+Wild animal, Stays in, Forest
+Tiger, Is a, Wild animal
+Forest, Is a, Jungle
+Tiger, Stays in, Jungle
+Domestic animals, Stays in, Home
+Dog, Is a, Domestic animal
+Dog, Stays in, Home
+Cat, Is a, Domestic animal
+Cat, Stays in, Home

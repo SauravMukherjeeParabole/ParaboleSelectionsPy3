@@ -1,0 +1,9 @@
+Band creates music.
+Band has singer.
+Singer does singing.
+Coldplay creates music.
+Christopher Martin is a singer.
+Coldplay has Christopher Martin.
+Chester Bennington was a singer.
+Linkin Park had Chester Bennington.
+Linkin Park created music.

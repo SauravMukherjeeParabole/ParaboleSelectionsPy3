@@ -1,0 +1,6 @@
+Cricketer plays cricket.
+Foootballer plays football.
+Footballer do not play cricket.
+Cricketer do not play football.
+Luka Modric do not play cricket.
+Virat Kohli do not play football.

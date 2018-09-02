@@ -1,0 +1,5 @@
+Planet revolves around stars.
+Satellites revolve around planets.
+Sun is a star.
+Earth revolves around the sun.
+Moon revolves around the earth.

@@ -1,0 +1,6 @@
+Food increases calories.
+Exercise decreases calories.
+Rice is food.
+Ram eats rice.
+Push up is exercise.
+Ram does push up.

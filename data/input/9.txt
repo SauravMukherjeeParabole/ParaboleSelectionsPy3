@@ -1,0 +1,8 @@
+Herbivore eats plant.
+Grass is a plant.
+Deer eats grass.
+Carnivore eats meat.
+Animal has meat.
+Tiger eats deer.
+Deer has meat.
+Tiger has meat.

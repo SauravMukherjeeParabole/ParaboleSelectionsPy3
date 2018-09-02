@@ -1,0 +1,6 @@
+Pistol is a gun.
+Rifle is a gun.
+Rifle is automatic.
+Pistol has a safety catch.
+Beretta 70 has a safety catch.
+Maverick 343 is automatic.

@@ -1,0 +1,7 @@
+Moon, Is a, Satellite
+Earth, Is a, Planet
+Sun, Is a, Star
+Planet, Revolves around, Star
+Satellite, Revolves around, Planet
+Moon, Revolves around, Earth
+Earth, Revolves around, Sun

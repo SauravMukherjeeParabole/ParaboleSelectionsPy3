@@ -1,0 +1,5 @@
+Football player plays for football team.
+Lionel Messi plays for Barcelona.
+Barcelona is a football team.
+Christiano Ronaldo plays for Juventus.
+Christiano Ronaldo is a football player.

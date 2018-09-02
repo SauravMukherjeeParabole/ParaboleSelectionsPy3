@@ -1,0 +1,6 @@
+Car drives on road.
+Car has four wheels.
+Ford fiesta has four wheels.
+Ford fiesta drives on road.
+Motorcycle has two wheels.
+Tvs apache has two wheels.

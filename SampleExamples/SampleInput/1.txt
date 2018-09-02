@@ -1,0 +1,6 @@
+Wild animal stays in forest.
+Tiger is a wild animal.
+Tiger stays in jungle.
+Domestic animal stays in home.
+Dog stays in home.
+Cat is a domestic animal.
